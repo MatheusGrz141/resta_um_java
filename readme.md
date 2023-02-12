@@ -1,7 +1,7 @@
-<h1 align="center"> Meu site </h1>
+<h1 align="center"> Resta Um em Java </h1>
 
 <p align="center">
-Meu primeiro site feito para critérios de divulgação.
+algoritmo do jogo de tabuleiro resta um feito em java 
 </p>
 
 <p align="center">
